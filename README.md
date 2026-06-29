@@ -1,12 +1,12 @@
 # steps
 
 - Backend
-    - routning
+    - routing
     - registrazione
     - chatting messaggistica
     - bacheca annunci
-    - pagamenti (sprite)
-    - registrazione carta identita' (sprite)
+    - pagamenti (stripe)
+    - registrazione carta identita' (stripe)
     - salvataggio foto x consegna  
     - 
     -
